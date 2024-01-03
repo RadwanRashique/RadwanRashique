@@ -1,17 +1,17 @@
 
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg) (https://github.com/RadwanRashique)
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)]  (https://github.com/RadwanRashique)
 <h1 align="center">Hi 👋, I'm Radwan Rashique P</h1>
 <h3 align="center">A passionate Mern Stack from India</h3>
 <img align="right" alt="coding"  width="400"  src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
 
 - 💬 Ask me about **Mern**
-
 - 📫 How to reach me **radwangoinspire916@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/radwanrashique916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radwanrashique916" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ridhsapp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ridhsapp" height="30" width="40" /></a>
+<a href="https://instagram.com/radwan_rashique_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radwan_rashique_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@radwanrashique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@radwanrashique" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
