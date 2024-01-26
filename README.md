@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Radwan Rashique P</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=radwanrashique&label=Profile%20views&color=0e75b6&style=flat" alt="radwanrashique" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🌱 I’m currently learning **DataStructures**
 
