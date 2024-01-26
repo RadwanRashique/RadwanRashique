@@ -1,5 +1,3 @@
-
-<h2>I am a passionate self-taught MERN stack web developer. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h2>
 ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)  (https://github.com/RadwanRashique)
 <h1 align="center">Hi 👋, I'm Radwan Rashique P</h1>
 <h3 align="center">A passionate Mern Stack Developer from India</h3>
